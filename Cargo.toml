@@ -3,6 +3,8 @@ name = "unsolicited-advice"
 version = "0.1.0"
 authors = ["Geert-Johan Riemer <geertjohan@geertjohan.net>"]
 edition = "2018"
+description = "Prints a line of unsolicited advice."
+license = "BSD-3-Clause"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
