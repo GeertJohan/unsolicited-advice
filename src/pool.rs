@@ -1,6 +1,5 @@
-
 pub fn pool() -> Vec<String> {
-	[
+    [
 		"Learn how to learn from those you disagree with, or even offend you. See if you can find the truth in what they believe.",
 		"Being enthusiastic is worth 25 IQ points.",
 		"Always demand a deadline. A deadline weeds out the extraneous and the ordinary. It prevents you from trying to make it perfect, so you have to make it different. Different is better.",
@@ -47,7 +46,7 @@ pub fn pool() -> Vec<String> {
 		"When you die you take absolutely nothing with you except your reputation.",
 		"Before you are old, attend as many funerals as you can bear, and listen. Nobody talks about the departed’s achievements. The only thing people will remember is what kind of person you were while you were achieving.",
 		"For every dollar you spend purchasing something substantial, expect to pay a dollar in repairs, maintenance, or disposal by the end of its life.",
-		"nything real begins with the fiction of what could be. Imagination is therefore the most potent force in the universe, and a skill you can get better at. It’s the one skill in life that benefits from ignoring what everyone else knows.",
+		"Anything real begins with the fiction of what could be. Imagination is therefore the most potent force in the universe, and a skill you can get better at. It’s the one skill in life that benefits from ignoring what everyone else knows.",
 		"When crisis and disaster strike, don’t waste them. No problems, no progress.",
 		"On vacation go to the most remote place on your itinerary first, bypassing the cities. You’ll maximize the shock of otherness in the remote, and then later you’ll welcome the familiar comforts of a city on the way back.",
 		"When you get an invitation to do something in the future, ask yourself: would you accept this if it was scheduled for tomorrow? Not too many promises will pass that immediacy filter.",
