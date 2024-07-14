@@ -1,6 +1,6 @@
 [package]
 name = "unsolicited-advice"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Geert-Johan Riemer <geertjohan@geertjohan.net>"]
 edition = "2018"
 description = "Prints a line of unsolicited advice."
