@@ -1,13 +1,17 @@
-use clap::Clap;
+use clap::Parser;
 use rand::Rng;
 
 mod pool;
 
-#[derive(Clap)]
-#[clap(version = "0.1", author = "Geert-Johan Riemer <opensource@geertjohan.net>")]
+#[derive(Parser)]
+#[command(
+    version = "0.1",
+    author = "Geert-Johan Riemer <opensource@geertjohan.net>",
+    about = "Advice by Kevin Kelly, https://kk.org/thetechnium/68-bits-of-unsolicited-advice/"
+)]
 struct Opts {
     /// A level of verbosity, and can be used multiple times
-    #[clap(short, long)]
+    #[arg(short, long)]
     verbose: bool,
 }
 
